@@ -1,15 +1,15 @@
 # Title of Project: [PROJECT_TITLE_HERE]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Chaitanya Keshari
+2. Raj Verma
+3. Ayush Anand
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Open command line.
+2. "streamlit run streamlit_app1.py" Run this command
+3. Upload the csv 'fodder2.csv'
+4. Results are displayed
 
 ## Checklist:
 1. Final Project Report
